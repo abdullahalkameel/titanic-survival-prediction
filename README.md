@@ -27,7 +27,7 @@ The goal is to predict passenger survival using demographic, ticket, and family-
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
 
-##Kaggle Notebook
+## Kaggle Notebook
 
 https://www.kaggle.com/code/abdullahalkamel/titanic-final#%F0%9F%9A%A2-Titanic-Survival-Prediction
 
